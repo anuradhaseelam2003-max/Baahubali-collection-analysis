@@ -1,0 +1,551 @@
+Record_ID,Movie_Name,Year,Country,Language,Budget_Crore_INR,BoxOffice_Crore_INR,IMDB_Rating,Offline_Tickets_Sold,Online_Tickets_Sold,Total_Tickets_Sold,Release_Platform
+1,Baahubali: The Epic,2018,India,Tamil,243,1433,7.6,117327,364324,481651,Hotstar
+2,Baahubali: The Beginning,2015,Australia,Telugu,261,1344,9.2,198947,268151,467098,Netflix
+3,Baahubali: The Beginning,2015,China,Hindi,152,1939,8.2,109502,358340,467842,Netflix
+4,Baahubali: The Beginning,2015,Singapore,Malayalam,249,1546,8.0,521670,427019,948689,Amazon Prime
+5,Baahubali: The Conclusion,2017,Singapore,Telugu,156,1008,9.3,569384,514011,1083395,Hotstar
+6,Baahubali: The Conclusion,2017,UK,Tamil,234,1384,7.6,323728,489087,812815,Theatre
+7,Baahubali: The Epic,2018,Japan,Tamil,297,529,8.5,108744,403368,512112,Netflix
+8,Baahubali: The Epic,2018,Australia,Hindi,174,1214,9.1,46087,520348,566435,Theatre
+9,Baahubali: The Beginning,2015,UAE,Malayalam,154,949,9.3,155519,400240,555759,Amazon Prime
+10,Baahubali: The Conclusion,2017,Singapore,Malayalam,219,949,8.7,347093,520895,867988,Amazon Prime
+11,Baahubali: The Conclusion,2017,USA,Tamil,233,1393,8.8,145597,379654,525251,Amazon Prime
+12,Baahubali: The Beginning,2015,Australia,Tamil,233,1514,8.0,412360,112939,525299,Hotstar
+13,Baahubali: The Conclusion,2017,USA,Tamil,283,1884,9.0,450141,165523,615664,Amazon Prime
+14,Baahubali: The Beginning,2015,Japan,Telugu,158,1965,9.1,393589,442871,836460,Amazon Prime
+15,Baahubali: The Epic,2018,USA,Telugu,185,1924,8.0,322192,46937,369129,Theatre
+16,Baahubali: The Conclusion,2017,India,Telugu,227,1957,9.2,463048,255290,718338,Hotstar
+17,Baahubali: The Epic,2018,Japan,Hindi,171,969,7.8,218538,247141,465679,Amazon Prime
+18,Baahubali: The Epic,2018,India,Malayalam,175,2004,9.4,406017,90131,496148,Hotstar
+19,Baahubali: The Beginning,2015,India,Tamil,195,1679,7.6,422050,378277,800327,Theatre
+20,Baahubali: The Epic,2018,China,Telugu,235,815,7.8,574604,421177,995781,Hotstar
+21,Baahubali: The Conclusion,2017,India,Hindi,280,1607,8.7,188249,395667,583916,Theatre
+22,Baahubali: The Beginning,2015,Japan,Telugu,274,1992,8.5,289127,192117,481244,Theatre
+23,Baahubali: The Conclusion,2017,UK,Tamil,181,899,7.9,332531,264307,596838,Theatre
+24,Baahubali: The Beginning,2015,India,Malayalam,169,1448,7.8,131646,220747,352393,Hotstar
+25,Baahubali: The Conclusion,2017,Australia,Telugu,244,751,8.4,244574,367842,612416,Amazon Prime
+26,Baahubali: The Conclusion,2017,Singapore,Hindi,206,669,8.6,517143,273557,790700,Amazon Prime
+27,Baahubali: The Beginning,2015,India,Malayalam,233,727,8.1,284565,332867,617432,Theatre
+28,Baahubali: The Epic,2018,China,Hindi,177,1168,8.3,292940,540210,833150,Theatre
+29,Baahubali: The Beginning,2015,Japan,Telugu,242,1862,7.7,107526,110505,218031,Hotstar
+30,Baahubali: The Conclusion,2017,China,Hindi,191,1497,8.5,167789,354294,522083,Netflix
+31,Baahubali: The Conclusion,2017,USA,Hindi,213,1995,8.7,544782,488837,1033619,Theatre
+32,Baahubali: The Beginning,2015,Japan,Tamil,211,1859,7.8,397425,194241,591666,Theatre
+33,Baahubali: The Epic,2018,Australia,Telugu,244,1664,7.6,131443,319857,451300,Netflix
+34,Baahubali: The Conclusion,2017,India,Telugu,194,631,7.7,443937,315881,759818,Hotstar
+35,Baahubali: The Beginning,2015,UAE,Telugu,271,1290,9.1,480775,32066,512841,Hotstar
+36,Baahubali: The Epic,2018,UAE,Hindi,181,2061,8.4,199099,489789,688888,Theatre
+37,Baahubali: The Epic,2018,Singapore,Tamil,277,1275,8.4,150775,441341,592116,Netflix
+38,Baahubali: The Conclusion,2017,UK,Tamil,280,935,8.9,71604,319833,391437,Netflix
+39,Baahubali: The Conclusion,2017,UK,Tamil,171,920,7.9,354369,546355,900724,Theatre
+40,Baahubali: The Epic,2018,Japan,Malayalam,243,1951,9.2,239959,80718,320677,Theatre
+41,Baahubali: The Beginning,2015,Singapore,Tamil,211,1713,8.5,335554,355675,691229,Theatre
+42,Baahubali: The Conclusion,2017,UK,Hindi,255,556,7.7,50806,417211,468017,Amazon Prime
+43,Baahubali: The Epic,2018,Japan,Hindi,266,2099,9.0,516432,352291,868723,Amazon Prime
+44,Baahubali: The Conclusion,2017,UAE,Hindi,167,1090,8.0,469870,302381,772251,Theatre
+45,Baahubali: The Epic,2018,India,Hindi,265,1967,8.5,121046,451326,572372,Netflix
+46,Baahubali: The Conclusion,2017,UK,Malayalam,293,1896,8.0,309952,237578,547530,Amazon Prime
+47,Baahubali: The Beginning,2015,China,Tamil,171,752,7.7,188354,214661,403015,Netflix
+48,Baahubali: The Conclusion,2017,UK,Telugu,180,921,8.2,468842,422783,891625,Theatre
+49,Baahubali: The Beginning,2015,India,Hindi,236,2171,8.7,344866,42147,387013,Hotstar
+50,Baahubali: The Conclusion,2017,India,Tamil,234,1684,9.2,299380,343298,642678,Amazon Prime
+51,Baahubali: The Conclusion,2017,Japan,Malayalam,291,1660,8.6,431160,104063,535223,Theatre
+52,Baahubali: The Conclusion,2017,UAE,Hindi,261,847,8.6,564136,500194,1064330,Amazon Prime
+53,Baahubali: The Epic,2018,Japan,Telugu,246,1703,8.2,43941,392249,436190,Netflix
+54,Baahubali: The Epic,2018,USA,Tamil,188,584,9.0,273328,131825,405153,Theatre
+55,Baahubali: The Epic,2018,USA,Hindi,193,2160,8.6,90930,114845,205775,Hotstar
+56,Baahubali: The Beginning,2015,USA,Hindi,219,2134,9.0,318329,296262,614591,Theatre
+57,Baahubali: The Epic,2018,Japan,Tamil,292,583,9.3,563648,257065,820713,Hotstar
+58,Baahubali: The Epic,2018,Japan,Malayalam,159,672,8.1,336329,43594,379923,Theatre
+59,Baahubali: The Epic,2018,India,Malayalam,274,1742,8.7,250533,269873,520406,Theatre
+60,Baahubali: The Conclusion,2017,India,Telugu,281,1995,9.1,191188,158440,349628,Theatre
+61,Baahubali: The Beginning,2015,UAE,Malayalam,197,1002,8.6,171379,540955,712334,Theatre
+62,Baahubali: The Conclusion,2017,India,Malayalam,239,1018,9.3,196565,208044,404609,Theatre
+63,Baahubali: The Beginning,2015,Australia,Telugu,283,2001,8.7,557494,437148,994642,Amazon Prime
+64,Baahubali: The Beginning,2015,Japan,Malayalam,179,564,8.6,207775,434050,641825,Netflix
+65,Baahubali: The Epic,2018,Japan,Hindi,279,2005,9.2,581934,346407,928341,Hotstar
+66,Baahubali: The Beginning,2015,UAE,Hindi,243,518,8.8,307575,286907,594482,Amazon Prime
+67,Baahubali: The Beginning,2015,Singapore,Telugu,291,1818,8.7,315925,382423,698348,Amazon Prime
+68,Baahubali: The Beginning,2015,UK,Malayalam,194,1743,8.8,589171,285213,874384,Amazon Prime
+69,Baahubali: The Beginning,2015,UK,Hindi,228,930,9.0,552400,367859,920259,Netflix
+70,Baahubali: The Beginning,2015,China,Tamil,246,2179,7.8,94528,91395,185923,Hotstar
+71,Baahubali: The Conclusion,2017,USA,Malayalam,228,2197,7.7,455309,58156,513465,Amazon Prime
+72,Baahubali: The Beginning,2015,UAE,Telugu,213,1811,8.0,241640,230234,471874,Hotstar
+73,Baahubali: The Conclusion,2017,Singapore,Malayalam,163,1989,9.3,234465,109078,343543,Netflix
+74,Baahubali: The Epic,2018,China,Telugu,278,1056,8.9,515376,504664,1020040,Amazon Prime
+75,Baahubali: The Beginning,2015,UAE,Hindi,229,1680,8.8,49501,411175,460676,Amazon Prime
+76,Baahubali: The Epic,2018,Japan,Tamil,297,1421,8.9,387233,381013,768246,Theatre
+77,Baahubali: The Beginning,2015,Japan,Tamil,244,1558,8.4,158388,118570,276958,Theatre
+78,Baahubali: The Beginning,2015,China,Tamil,193,1303,8.2,67687,400508,468195,Netflix
+79,Baahubali: The Conclusion,2017,UAE,Malayalam,211,1681,9.0,387930,408633,796563,Hotstar
+80,Baahubali: The Epic,2018,Australia,Malayalam,150,1966,7.8,53156,503007,556163,Hotstar
+81,Baahubali: The Beginning,2015,Japan,Malayalam,221,1358,8.1,575325,89600,664925,Amazon Prime
+82,Baahubali: The Epic,2018,Australia,Hindi,237,2046,9.0,436122,200714,636836,Netflix
+83,Baahubali: The Beginning,2015,UAE,Hindi,164,1045,7.9,514798,194605,709403,Netflix
+84,Baahubali: The Beginning,2015,UAE,Tamil,201,1061,7.7,229419,493990,723409,Amazon Prime
+85,Baahubali: The Conclusion,2017,Australia,Hindi,274,951,8.0,277402,321080,598482,Netflix
+86,Baahubali: The Beginning,2015,China,Hindi,162,1401,9.0,415662,382081,797743,Netflix
+87,Baahubali: The Beginning,2015,India,Hindi,284,1206,8.2,305839,503540,809379,Amazon Prime
+88,Baahubali: The Beginning,2015,USA,Telugu,232,1692,7.7,175863,325733,501596,Hotstar
+89,Baahubali: The Beginning,2015,India,Telugu,275,904,8.4,316238,34208,350446,Amazon Prime
+90,Baahubali: The Conclusion,2017,USA,Telugu,261,1358,7.8,287561,424534,712095,Amazon Prime
+91,Baahubali: The Beginning,2015,USA,Telugu,251,935,7.6,231018,447181,678199,Hotstar
+92,Baahubali: The Epic,2018,UAE,Malayalam,152,614,8.1,342372,77251,419623,Hotstar
+93,Baahubali: The Epic,2018,USA,Hindi,236,1859,7.9,243890,266826,510716,Hotstar
+94,Baahubali: The Epic,2018,China,Tamil,290,1881,8.6,76566,365004,441570,Amazon Prime
+95,Baahubali: The Conclusion,2017,Australia,Hindi,198,2042,7.8,51451,91298,142749,Amazon Prime
+96,Baahubali: The Beginning,2015,UAE,Telugu,239,502,9.2,394431,522553,916984,Amazon Prime
+97,Baahubali: The Beginning,2015,India,Malayalam,212,789,8.0,295247,430872,726119,Amazon Prime
+98,Baahubali: The Conclusion,2017,India,Tamil,267,1127,9.1,403492,401974,805466,Hotstar
+99,Baahubali: The Epic,2018,Japan,Hindi,190,1863,9.3,437899,527443,965342,Netflix
+100,Baahubali: The Conclusion,2017,India,Malayalam,152,1218,8.2,498967,77055,576022,Amazon Prime
+101,Baahubali: The Epic,2018,UK,Tamil,258,1206,7.7,435471,246323,681794,Theatre
+102,Baahubali: The Beginning,2015,China,Telugu,154,1097,8.2,464526,343866,808392,Theatre
+103,Baahubali: The Beginning,2015,Singapore,Malayalam,292,887,7.9,518976,141333,660309,Netflix
+104,Baahubali: The Conclusion,2017,USA,Hindi,172,713,7.8,550584,369395,919979,Netflix
+105,Baahubali: The Conclusion,2017,India,Hindi,191,1452,8.7,124476,278542,403018,Amazon Prime
+106,Baahubali: The Conclusion,2017,USA,Tamil,271,787,8.7,57947,61538,119485,Theatre
+107,Baahubali: The Epic,2018,Japan,Malayalam,201,905,8.3,435979,282895,718874,Theatre
+108,Baahubali: The Beginning,2015,UK,Tamil,273,1738,9.2,449992,525468,975460,Amazon Prime
+109,Baahubali: The Beginning,2015,Singapore,Tamil,283,1543,8.3,558468,372731,931199,Netflix
+110,Baahubali: The Epic,2018,USA,Hindi,178,1486,8.3,558003,318508,876511,Hotstar
+111,Baahubali: The Beginning,2015,India,Telugu,291,827,8.8,495209,226698,721907,Amazon Prime
+112,Baahubali: The Epic,2018,Japan,Malayalam,189,1197,7.9,338247,304499,642746,Hotstar
+113,Baahubali: The Conclusion,2017,Australia,Hindi,274,1975,8.7,86018,178244,264262,Amazon Prime
+114,Baahubali: The Beginning,2015,UAE,Hindi,158,708,9.3,355763,116804,472567,Hotstar
+115,Baahubali: The Epic,2018,UAE,Tamil,232,693,8.0,495922,389994,885916,Amazon Prime
+116,Baahubali: The Epic,2018,Japan,Hindi,252,899,8.6,486046,127736,613782,Amazon Prime
+117,Baahubali: The Epic,2018,Singapore,Hindi,203,573,9.2,460655,166780,627435,Amazon Prime
+118,Baahubali: The Epic,2018,USA,Hindi,172,1495,8.2,459817,162149,621966,Hotstar
+119,Baahubali: The Epic,2018,China,Telugu,158,1150,8.7,188376,243691,432067,Theatre
+120,Baahubali: The Beginning,2015,Australia,Hindi,236,905,9.4,245742,43532,289274,Netflix
+121,Baahubali: The Conclusion,2017,Japan,Malayalam,266,1698,8.3,532424,482577,1015001,Netflix
+122,Baahubali: The Beginning,2015,India,Tamil,180,1627,9.3,179031,62900,241931,Hotstar
+123,Baahubali: The Beginning,2015,India,Hindi,227,1547,8.3,363245,532348,895593,Amazon Prime
+124,Baahubali: The Conclusion,2017,China,Tamil,300,1723,9.4,363547,295963,659510,Amazon Prime
+125,Baahubali: The Beginning,2015,Singapore,Telugu,298,1397,8.0,395801,269050,664851,Theatre
+126,Baahubali: The Epic,2018,Singapore,Malayalam,166,1309,8.8,215413,168596,384009,Hotstar
+127,Baahubali: The Conclusion,2017,UAE,Hindi,234,955,8.5,269009,277920,546929,Hotstar
+128,Baahubali: The Beginning,2015,China,Tamil,181,2143,8.9,234026,346312,580338,Amazon Prime
+129,Baahubali: The Conclusion,2017,UK,Malayalam,264,1796,8.0,70549,103113,173662,Netflix
+130,Baahubali: The Epic,2018,USA,Malayalam,155,963,8.5,406281,366516,772797,Amazon Prime
+131,Baahubali: The Epic,2018,UK,Hindi,259,2080,9.4,436308,239824,676132,Netflix
+132,Baahubali: The Epic,2018,UAE,Malayalam,257,1916,8.0,466958,377949,844907,Amazon Prime
+133,Baahubali: The Conclusion,2017,China,Tamil,268,1116,9.2,437580,434296,871876,Netflix
+134,Baahubali: The Epic,2018,USA,Hindi,181,1179,9.3,325152,338459,663611,Amazon Prime
+135,Baahubali: The Beginning,2015,Australia,Malayalam,258,1291,9.2,89373,306922,396295,Theatre
+136,Baahubali: The Conclusion,2017,China,Malayalam,150,962,8.4,522284,141636,663920,Netflix
+137,Baahubali: The Conclusion,2017,Australia,Telugu,204,1217,8.9,477266,232046,709312,Netflix
+138,Baahubali: The Conclusion,2017,Singapore,Telugu,217,586,7.8,573546,300281,873827,Amazon Prime
+139,Baahubali: The Conclusion,2017,USA,Malayalam,252,1427,7.6,374992,283172,658164,Netflix
+140,Baahubali: The Epic,2018,China,Telugu,223,1787,8.2,272367,36938,309305,Amazon Prime
+141,Baahubali: The Beginning,2015,UK,Malayalam,191,920,9.0,185894,333358,519252,Hotstar
+142,Baahubali: The Beginning,2015,Singapore,Malayalam,282,690,8.4,299276,376641,675917,Hotstar
+143,Baahubali: The Beginning,2015,UK,Hindi,248,711,8.3,55869,224395,280264,Hotstar
+144,Baahubali: The Conclusion,2017,China,Malayalam,151,1050,9.4,466818,254091,720909,Hotstar
+145,Baahubali: The Conclusion,2017,UAE,Malayalam,272,1235,9.2,405538,359094,764632,Amazon Prime
+146,Baahubali: The Conclusion,2017,Japan,Malayalam,245,1077,9.1,220894,358830,579724,Netflix
+147,Baahubali: The Epic,2018,Australia,Hindi,261,1476,8.5,251235,371282,622517,Amazon Prime
+148,Baahubali: The Epic,2018,India,Telugu,253,1063,9.2,401256,146539,547795,Netflix
+149,Baahubali: The Beginning,2015,USA,Malayalam,155,2195,9.1,116357,329556,445913,Hotstar
+150,Baahubali: The Conclusion,2017,Australia,Hindi,173,748,8.6,594592,537813,1132405,Theatre
+151,Baahubali: The Beginning,2015,Japan,Hindi,247,812,7.9,378702,130763,509465,Netflix
+152,Baahubali: The Conclusion,2017,UK,Tamil,184,1009,9.0,533686,162491,696177,Theatre
+153,Baahubali: The Epic,2018,UK,Telugu,281,728,8.3,133355,96532,229887,Amazon Prime
+154,Baahubali: The Beginning,2015,USA,Tamil,163,689,9.1,501767,454461,956228,Netflix
+155,Baahubali: The Epic,2018,USA,Telugu,193,1430,7.8,240532,329631,570163,Theatre
+156,Baahubali: The Beginning,2015,USA,Malayalam,257,697,8.4,535908,237364,773272,Theatre
+157,Baahubali: The Epic,2018,UAE,Hindi,288,1511,8.5,575640,257430,833070,Hotstar
+158,Baahubali: The Epic,2018,USA,Tamil,203,1539,8.9,340796,195117,535913,Hotstar
+159,Baahubali: The Beginning,2015,UAE,Tamil,256,1624,8.3,227969,544377,772346,Hotstar
+160,Baahubali: The Beginning,2015,Australia,Tamil,228,679,7.9,439007,247277,686284,Amazon Prime
+161,Baahubali: The Conclusion,2017,USA,Telugu,286,1084,9.1,354652,334034,688686,Theatre
+162,Baahubali: The Conclusion,2017,UK,Hindi,249,2134,8.4,515609,434212,949821,Theatre
+163,Baahubali: The Beginning,2015,Singapore,Malayalam,172,1705,8.6,294724,220083,514807,Netflix
+164,Baahubali: The Beginning,2015,Singapore,Tamil,292,2160,8.9,324238,115404,439642,Hotstar
+165,Baahubali: The Conclusion,2017,China,Hindi,262,583,9.1,190026,531829,721855,Netflix
+166,Baahubali: The Beginning,2015,Singapore,Telugu,238,1826,8.1,54168,521008,575176,Netflix
+167,Baahubali: The Beginning,2015,Japan,Malayalam,200,593,8.8,209853,499855,709708,Theatre
+168,Baahubali: The Epic,2018,UAE,Hindi,292,579,8.9,152058,461978,614036,Hotstar
+169,Baahubali: The Epic,2018,India,Tamil,262,752,8.9,172462,261380,433842,Theatre
+170,Baahubali: The Beginning,2015,China,Malayalam,200,1252,8.5,558622,171385,730007,Netflix
+171,Baahubali: The Conclusion,2017,UAE,Hindi,151,1467,7.7,297424,211757,509181,Netflix
+172,Baahubali: The Epic,2018,USA,Telugu,159,926,8.5,412383,146078,558461,Theatre
+173,Baahubali: The Conclusion,2017,USA,Malayalam,194,527,9.1,395212,494700,889912,Theatre
+174,Baahubali: The Conclusion,2017,UAE,Malayalam,228,989,8.8,579505,208487,787992,Theatre
+175,Baahubali: The Beginning,2015,UK,Tamil,266,1979,9.4,57000,77794,134794,Theatre
+176,Baahubali: The Conclusion,2017,Singapore,Tamil,180,1061,8.6,547768,141377,689145,Hotstar
+177,Baahubali: The Epic,2018,UK,Tamil,262,1581,7.7,197466,502021,699487,Amazon Prime
+178,Baahubali: The Beginning,2015,USA,Hindi,231,548,8.7,40262,363866,404128,Netflix
+179,Baahubali: The Conclusion,2017,Australia,Malayalam,223,1044,9.1,135897,33332,169229,Theatre
+180,Baahubali: The Beginning,2015,UK,Telugu,160,1276,9.2,392309,461044,853353,Netflix
+181,Baahubali: The Epic,2018,UAE,Hindi,257,2019,8.8,561330,90322,651652,Netflix
+182,Baahubali: The Epic,2018,Singapore,Tamil,256,1049,9.3,465596,494329,959925,Amazon Prime
+183,Baahubali: The Conclusion,2017,Japan,Telugu,257,1767,7.7,266460,530017,796477,Netflix
+184,Baahubali: The Epic,2018,UAE,Tamil,298,622,8.3,136039,310467,446506,Netflix
+185,Baahubali: The Beginning,2015,UAE,Tamil,287,1444,8.9,524425,208267,732692,Amazon Prime
+186,Baahubali: The Conclusion,2017,India,Hindi,172,2079,7.8,594079,454968,1049047,Amazon Prime
+187,Baahubali: The Beginning,2015,UK,Tamil,240,519,9.3,203394,432691,636085,Amazon Prime
+188,Baahubali: The Epic,2018,Japan,Hindi,265,1118,7.6,134699,333884,468583,Hotstar
+189,Baahubali: The Conclusion,2017,Singapore,Hindi,266,1915,8.9,212205,379916,592121,Netflix
+190,Baahubali: The Beginning,2015,India,Tamil,180,928,7.8,506804,532441,1039245,Hotstar
+191,Baahubali: The Conclusion,2017,UK,Tamil,294,1865,8.8,117815,363886,481701,Netflix
+192,Baahubali: The Epic,2018,Singapore,Telugu,197,1089,9.1,534584,202319,736903,Hotstar
+193,Baahubali: The Epic,2018,Australia,Tamil,286,1304,8.3,288317,456795,745112,Theatre
+194,Baahubali: The Beginning,2015,UAE,Telugu,289,1359,7.9,162090,280401,442491,Netflix
+195,Baahubali: The Conclusion,2017,Japan,Telugu,259,685,8.7,358402,213972,572374,Netflix
+196,Baahubali: The Conclusion,2017,India,Tamil,254,1223,7.9,114019,497213,611232,Hotstar
+197,Baahubali: The Conclusion,2017,UAE,Tamil,171,1495,9.3,445346,391568,836914,Amazon Prime
+198,Baahubali: The Beginning,2015,UAE,Telugu,228,1638,8.5,531756,336288,868044,Theatre
+199,Baahubali: The Conclusion,2017,USA,Malayalam,241,798,8.1,146399,140889,287288,Hotstar
+200,Baahubali: The Beginning,2015,Singapore,Hindi,289,913,8.3,345973,85481,431454,Amazon Prime
+201,Baahubali: The Conclusion,2017,UK,Malayalam,247,725,8.6,214507,472538,687045,Netflix
+202,Baahubali: The Conclusion,2017,UK,Malayalam,214,1735,8.1,87315,354065,441380,Hotstar
+203,Baahubali: The Conclusion,2017,Singapore,Hindi,292,774,8.9,487473,291083,778556,Hotstar
+204,Baahubali: The Epic,2018,Australia,Hindi,157,743,9.2,469259,67766,537025,Theatre
+205,Baahubali: The Epic,2018,China,Tamil,238,1172,7.9,327770,157024,484794,Netflix
+206,Baahubali: The Epic,2018,UK,Hindi,270,553,8.0,543514,340838,884352,Amazon Prime
+207,Baahubali: The Beginning,2015,UAE,Telugu,235,1242,9.3,494779,477832,972611,Theatre
+208,Baahubali: The Beginning,2015,USA,Tamil,200,2198,8.4,548093,259694,807787,Theatre
+209,Baahubali: The Conclusion,2017,China,Hindi,215,1677,8.8,282035,145334,427369,Hotstar
+210,Baahubali: The Beginning,2015,UAE,Telugu,244,832,8.6,531124,299193,830317,Netflix
+211,Baahubali: The Conclusion,2017,UK,Hindi,260,1379,8.6,504995,203159,708154,Netflix
+212,Baahubali: The Epic,2018,China,Tamil,182,885,9.0,530767,63590,594357,Hotstar
+213,Baahubali: The Conclusion,2017,India,Hindi,184,764,8.3,198944,127802,326746,Amazon Prime
+214,Baahubali: The Conclusion,2017,China,Tamil,214,1355,8.0,397657,97942,495599,Amazon Prime
+215,Baahubali: The Beginning,2015,China,Telugu,243,890,8.8,400647,295531,696178,Hotstar
+216,Baahubali: The Conclusion,2017,Australia,Malayalam,202,1391,7.8,484311,265394,749705,Amazon Prime
+217,Baahubali: The Beginning,2015,UAE,Malayalam,223,1824,8.2,344108,44858,388966,Netflix
+218,Baahubali: The Conclusion,2017,Australia,Hindi,295,1643,8.7,393603,284765,678368,Theatre
+219,Baahubali: The Epic,2018,UK,Malayalam,157,1189,9.4,94271,505233,599504,Hotstar
+220,Baahubali: The Beginning,2015,USA,Tamil,259,632,9.0,480480,429987,910467,Theatre
+221,Baahubali: The Beginning,2015,Australia,Malayalam,236,955,8.3,421614,496617,918231,Netflix
+222,Baahubali: The Epic,2018,UK,Hindi,245,802,8.3,388821,477493,866314,Theatre
+223,Baahubali: The Conclusion,2017,UK,Telugu,206,1836,8.7,124394,132713,257107,Hotstar
+224,Baahubali: The Beginning,2015,Singapore,Tamil,248,1103,9.2,135621,483065,618686,Theatre
+225,Baahubali: The Epic,2018,UAE,Tamil,245,1891,8.6,358483,462046,820529,Hotstar
+226,Baahubali: The Epic,2018,UK,Tamil,164,2125,8.3,345612,319944,665556,Hotstar
+227,Baahubali: The Epic,2018,USA,Malayalam,154,1556,8.2,320166,142147,462313,Netflix
+228,Baahubali: The Epic,2018,Australia,Malayalam,168,934,9.0,568522,208518,777040,Amazon Prime
+229,Baahubali: The Conclusion,2017,Singapore,Tamil,255,910,8.2,305709,130892,436601,Amazon Prime
+230,Baahubali: The Epic,2018,UAE,Malayalam,190,647,9.2,83322,337240,420562,Netflix
+231,Baahubali: The Conclusion,2017,China,Malayalam,207,674,8.7,411545,362002,773547,Hotstar
+232,Baahubali: The Epic,2018,Australia,Tamil,177,667,7.8,45759,52131,97890,Hotstar
+233,Baahubali: The Beginning,2015,Singapore,Hindi,250,1266,7.9,398647,537921,936568,Theatre
+234,Baahubali: The Beginning,2015,USA,Hindi,223,1429,9.3,293394,190486,483880,Netflix
+235,Baahubali: The Conclusion,2017,Singapore,Hindi,192,2175,8.1,82185,268695,350880,Hotstar
+236,Baahubali: The Epic,2018,Japan,Telugu,246,1571,8.3,561009,410813,971822,Hotstar
+237,Baahubali: The Conclusion,2017,USA,Telugu,176,1642,8.7,149410,543120,692530,Hotstar
+238,Baahubali: The Epic,2018,USA,Telugu,175,1665,8.4,41001,531145,572146,Amazon Prime
+239,Baahubali: The Epic,2018,UAE,Telugu,155,1243,8.7,178135,184659,362794,Theatre
+240,Baahubali: The Conclusion,2017,UAE,Tamil,236,1112,8.6,123390,450655,574045,Theatre
+241,Baahubali: The Beginning,2015,China,Malayalam,161,1225,8.6,579977,476436,1056413,Theatre
+242,Baahubali: The Beginning,2015,UAE,Malayalam,199,2051,8.3,372822,238493,611315,Theatre
+243,Baahubali: The Beginning,2015,China,Telugu,204,1270,8.0,60470,425396,485866,Amazon Prime
+244,Baahubali: The Beginning,2015,Japan,Tamil,264,1928,7.6,59420,167584,227004,Hotstar
+245,Baahubali: The Conclusion,2017,China,Malayalam,265,581,7.7,385426,522663,908089,Theatre
+246,Baahubali: The Beginning,2015,USA,Malayalam,214,1639,9.4,287550,420095,707645,Amazon Prime
+247,Baahubali: The Conclusion,2017,UK,Malayalam,232,1314,8.1,193004,337017,530021,Theatre
+248,Baahubali: The Conclusion,2017,India,Tamil,221,1731,8.5,302104,546166,848270,Netflix
+249,Baahubali: The Beginning,2015,India,Telugu,204,1382,9.0,536228,288798,825026,Netflix
+250,Baahubali: The Conclusion,2017,USA,Hindi,277,1307,8.5,560990,166087,727077,Theatre
+251,Baahubali: The Beginning,2015,Australia,Malayalam,296,548,8.8,170577,231698,402275,Amazon Prime
+252,Baahubali: The Beginning,2015,China,Hindi,298,1316,7.9,126827,179910,306737,Amazon Prime
+253,Baahubali: The Conclusion,2017,USA,Malayalam,251,971,8.4,386690,305899,692589,Amazon Prime
+254,Baahubali: The Epic,2018,India,Tamil,223,1468,9.4,362516,331902,694418,Amazon Prime
+255,Baahubali: The Conclusion,2017,India,Malayalam,243,655,8.0,320540,82420,402960,Hotstar
+256,Baahubali: The Epic,2018,UAE,Hindi,241,1400,9.1,359563,332301,691864,Amazon Prime
+257,Baahubali: The Epic,2018,Singapore,Tamil,158,1343,8.7,358520,524149,882669,Amazon Prime
+258,Baahubali: The Conclusion,2017,Singapore,Telugu,228,797,8.5,351339,161340,512679,Netflix
+259,Baahubali: The Epic,2018,Australia,Malayalam,253,2108,7.9,242295,83158,325453,Netflix
+260,Baahubali: The Conclusion,2017,India,Hindi,241,1004,8.0,528111,120366,648477,Hotstar
+261,Baahubali: The Conclusion,2017,India,Telugu,280,1769,8.9,108307,295238,403545,Netflix
+262,Baahubali: The Conclusion,2017,UAE,Tamil,279,1738,9.3,106973,465980,572953,Hotstar
+263,Baahubali: The Epic,2018,Japan,Malayalam,188,1321,8.0,393975,307601,701576,Amazon Prime
+264,Baahubali: The Conclusion,2017,UAE,Tamil,216,867,8.0,245043,134512,379555,Netflix
+265,Baahubali: The Conclusion,2017,China,Malayalam,181,537,8.8,366596,435077,801673,Amazon Prime
+266,Baahubali: The Conclusion,2017,Australia,Hindi,207,1230,8.2,560205,224124,784329,Netflix
+267,Baahubali: The Epic,2018,USA,Tamil,294,896,7.7,216571,493686,710257,Amazon Prime
+268,Baahubali: The Beginning,2015,Japan,Tamil,214,792,8.2,194007,202676,396683,Amazon Prime
+269,Baahubali: The Conclusion,2017,USA,Telugu,231,1745,8.6,571994,270892,842886,Netflix
+270,Baahubali: The Conclusion,2017,UAE,Malayalam,170,1553,8.4,289940,223114,513054,Amazon Prime
+271,Baahubali: The Beginning,2015,UK,Telugu,221,1618,7.7,292103,495034,787137,Theatre
+272,Baahubali: The Beginning,2015,Australia,Hindi,276,1359,9.1,142965,508728,651693,Amazon Prime
+273,Baahubali: The Conclusion,2017,UAE,Hindi,188,1548,8.2,534222,345795,880017,Theatre
+274,Baahubali: The Beginning,2015,UAE,Malayalam,166,1020,8.2,218682,311946,530628,Netflix
+275,Baahubali: The Epic,2018,Australia,Malayalam,184,606,9.0,387305,287700,675005,Netflix
+276,Baahubali: The Beginning,2015,UK,Telugu,161,911,8.1,418547,150461,569008,Hotstar
+277,Baahubali: The Epic,2018,UAE,Hindi,253,1945,8.8,42717,321035,363752,Hotstar
+278,Baahubali: The Conclusion,2017,India,Hindi,285,1544,8.0,590845,487439,1078284,Amazon Prime
+279,Baahubali: The Conclusion,2017,UAE,Telugu,275,1693,8.2,438021,273452,711473,Theatre
+280,Baahubali: The Beginning,2015,Singapore,Hindi,297,520,7.8,300743,108570,409313,Theatre
+281,Baahubali: The Conclusion,2017,Japan,Tamil,252,1809,7.6,458432,91107,549539,Theatre
+282,Baahubali: The Beginning,2015,Japan,Telugu,179,2035,8.9,207904,292304,500208,Netflix
+283,Baahubali: The Beginning,2015,India,Telugu,210,1020,7.7,510115,249368,759483,Netflix
+284,Baahubali: The Epic,2018,UK,Tamil,300,955,9.4,92584,407631,500215,Theatre
+285,Baahubali: The Beginning,2015,Singapore,Hindi,272,1579,8.1,137914,58697,196611,Hotstar
+286,Baahubali: The Epic,2018,India,Tamil,277,1597,8.8,397673,433395,831068,Hotstar
+287,Baahubali: The Conclusion,2017,USA,Hindi,292,1236,8.0,364832,456878,821710,Theatre
+288,Baahubali: The Conclusion,2017,UK,Malayalam,253,884,7.9,488356,99931,588287,Hotstar
+289,Baahubali: The Conclusion,2017,Japan,Hindi,225,1117,7.6,179039,502301,681340,Hotstar
+290,Baahubali: The Beginning,2015,Singapore,Tamil,192,1265,8.9,109693,523368,633061,Theatre
+291,Baahubali: The Beginning,2015,Australia,Malayalam,216,694,8.5,541340,524291,1065631,Netflix
+292,Baahubali: The Beginning,2015,Japan,Tamil,173,800,8.0,501037,276917,777954,Netflix
+293,Baahubali: The Epic,2018,Singapore,Tamil,250,1586,9.4,293605,510924,804529,Theatre
+294,Baahubali: The Conclusion,2017,Japan,Tamil,294,792,7.9,225174,155049,380223,Netflix
+295,Baahubali: The Beginning,2015,UAE,Telugu,280,990,8.8,567824,63561,631385,Netflix
+296,Baahubali: The Beginning,2015,UAE,Tamil,250,1919,8.0,533418,335871,869289,Hotstar
+297,Baahubali: The Beginning,2015,UK,Telugu,281,1783,9.4,542226,251666,793892,Netflix
+298,Baahubali: The Conclusion,2017,UAE,Malayalam,160,1123,8.4,102295,427981,530276,Theatre
+299,Baahubali: The Epic,2018,Australia,Malayalam,191,1976,8.4,559337,345821,905158,Amazon Prime
+300,Baahubali: The Conclusion,2017,UK,Hindi,251,1712,9.4,387028,416815,803843,Netflix
+301,Baahubali: The Beginning,2015,USA,Malayalam,281,1605,7.9,131209,277215,408424,Amazon Prime
+302,Baahubali: The Epic,2018,Singapore,Telugu,157,2020,7.9,481272,457872,939144,Netflix
+303,Baahubali: The Conclusion,2017,Singapore,Tamil,291,1779,8.8,282827,295541,578368,Amazon Prime
+304,Baahubali: The Beginning,2015,Japan,Malayalam,235,2027,9.2,236448,407629,644077,Hotstar
+305,Baahubali: The Conclusion,2017,UK,Malayalam,217,1312,9.3,300562,380205,680767,Theatre
+306,Baahubali: The Epic,2018,India,Telugu,182,1752,9.0,182596,257326,439922,Hotstar
+307,Baahubali: The Conclusion,2017,Singapore,Hindi,230,895,8.4,51621,134439,186060,Netflix
+308,Baahubali: The Epic,2018,Japan,Telugu,200,892,7.9,443725,99852,543577,Hotstar
+309,Baahubali: The Epic,2018,Japan,Tamil,225,956,8.7,208548,342240,550788,Hotstar
+310,Baahubali: The Epic,2018,UK,Hindi,243,1897,8.3,588474,432203,1020677,Netflix
+311,Baahubali: The Conclusion,2017,Singapore,Malayalam,189,880,8.6,369299,469397,838696,Amazon Prime
+312,Baahubali: The Conclusion,2017,Singapore,Tamil,201,1812,7.6,60049,120132,180181,Amazon Prime
+313,Baahubali: The Conclusion,2017,UK,Tamil,176,1718,8.2,152061,163756,315817,Theatre
+314,Baahubali: The Beginning,2015,India,Telugu,237,836,9.0,204566,301542,506108,Theatre
+315,Baahubali: The Epic,2018,India,Tamil,288,1649,7.9,272882,311130,584012,Netflix
+316,Baahubali: The Conclusion,2017,India,Hindi,169,1311,7.7,85638,179672,265310,Hotstar
+317,Baahubali: The Epic,2018,UAE,Hindi,286,1083,7.6,347634,254739,602373,Theatre
+318,Baahubali: The Epic,2018,USA,Malayalam,204,1000,8.8,158558,389575,548133,Hotstar
+319,Baahubali: The Conclusion,2017,Australia,Hindi,186,1311,8.4,323299,323358,646657,Theatre
+320,Baahubali: The Epic,2018,India,Tamil,296,974,9.2,393374,400532,793906,Amazon Prime
+321,Baahubali: The Conclusion,2017,UAE,Hindi,209,548,8.6,556294,428412,984706,Theatre
+322,Baahubali: The Epic,2018,Singapore,Malayalam,243,747,9.3,330872,246424,577296,Theatre
+323,Baahubali: The Beginning,2015,UAE,Hindi,251,558,7.8,49139,428717,477856,Amazon Prime
+324,Baahubali: The Epic,2018,India,Tamil,179,952,8.9,337716,250714,588430,Theatre
+325,Baahubali: The Beginning,2015,UAE,Telugu,192,934,9.0,517452,284916,802368,Netflix
+326,Baahubali: The Epic,2018,China,Telugu,199,1664,8.2,516198,177498,693696,Amazon Prime
+327,Baahubali: The Beginning,2015,Japan,Tamil,221,853,9.3,249490,172459,421949,Netflix
+328,Baahubali: The Beginning,2015,Japan,Tamil,188,1333,7.9,467231,140822,608053,Hotstar
+329,Baahubali: The Beginning,2015,India,Hindi,196,1170,7.6,353443,333072,686515,Amazon Prime
+330,Baahubali: The Epic,2018,UAE,Tamil,255,1977,8.4,96356,347958,444314,Hotstar
+331,Baahubali: The Beginning,2015,UK,Telugu,170,1040,7.7,230202,412876,643078,Netflix
+332,Baahubali: The Conclusion,2017,China,Hindi,154,1199,8.2,142857,251070,393927,Netflix
+333,Baahubali: The Epic,2018,Australia,Telugu,272,1810,9.4,344649,104304,448953,Netflix
+334,Baahubali: The Epic,2018,China,Telugu,299,781,8.2,337494,286432,623926,Hotstar
+335,Baahubali: The Epic,2018,USA,Malayalam,286,700,9.3,313857,171349,485206,Theatre
+336,Baahubali: The Conclusion,2017,Japan,Hindi,201,719,8.3,579769,168196,747965,Amazon Prime
+337,Baahubali: The Beginning,2015,India,Malayalam,240,1767,7.8,516754,455184,971938,Theatre
+338,Baahubali: The Conclusion,2017,India,Hindi,178,1629,8.2,296271,438508,734779,Amazon Prime
+339,Baahubali: The Conclusion,2017,Singapore,Hindi,191,2042,7.7,244556,217984,462540,Amazon Prime
+340,Baahubali: The Epic,2018,Japan,Hindi,168,2142,8.6,437510,240737,678247,Amazon Prime
+341,Baahubali: The Conclusion,2017,China,Malayalam,236,1706,8.6,200699,127767,328466,Amazon Prime
+342,Baahubali: The Epic,2018,Singapore,Malayalam,231,1847,8.3,124482,356291,480773,Hotstar
+343,Baahubali: The Conclusion,2017,UAE,Hindi,260,2123,9.3,244705,216241,460946,Theatre
+344,Baahubali: The Conclusion,2017,Australia,Hindi,242,1644,9.0,521591,310628,832219,Amazon Prime
+345,Baahubali: The Epic,2018,Singapore,Telugu,195,850,9.1,242016,433744,675760,Theatre
+346,Baahubali: The Beginning,2015,Australia,Tamil,233,696,9.1,350320,192996,543316,Theatre
+347,Baahubali: The Beginning,2015,India,Malayalam,178,810,8.1,242271,128569,370840,Theatre
+348,Baahubali: The Beginning,2015,India,Tamil,234,2128,8.9,259603,228000,487603,Netflix
+349,Baahubali: The Beginning,2015,Australia,Hindi,279,1485,9.3,470988,149281,620269,Theatre
+350,Baahubali: The Beginning,2015,Australia,Tamil,291,608,8.7,118330,413355,531685,Netflix
+351,Baahubali: The Epic,2018,UK,Hindi,183,1553,8.3,63891,305131,369022,Theatre
+352,Baahubali: The Beginning,2015,Japan,Hindi,195,2040,8.1,412801,507926,920727,Netflix
+353,Baahubali: The Beginning,2015,USA,Tamil,152,1751,9.0,524912,410431,935343,Hotstar
+354,Baahubali: The Epic,2018,Singapore,Tamil,244,932,8.8,301242,37491,338733,Theatre
+355,Baahubali: The Beginning,2015,India,Tamil,182,546,7.7,246757,202422,449179,Hotstar
+356,Baahubali: The Epic,2018,Australia,Tamil,258,2019,8.4,69756,30408,100164,Theatre
+357,Baahubali: The Conclusion,2017,Japan,Hindi,160,1386,7.8,217144,130792,347936,Hotstar
+358,Baahubali: The Beginning,2015,Australia,Hindi,185,1559,7.7,304770,516626,821396,Hotstar
+359,Baahubali: The Epic,2018,UK,Tamil,212,831,9.0,584938,72456,657394,Theatre
+360,Baahubali: The Conclusion,2017,Singapore,Telugu,298,1241,7.7,434867,379942,814809,Theatre
+361,Baahubali: The Conclusion,2017,Singapore,Malayalam,264,2144,8.7,258940,323068,582008,Netflix
+362,Baahubali: The Epic,2018,Singapore,Telugu,160,714,8.5,400792,506746,907538,Amazon Prime
+363,Baahubali: The Epic,2018,USA,Telugu,221,1432,8.7,51703,508844,560547,Amazon Prime
+364,Baahubali: The Epic,2018,Australia,Hindi,284,2196,8.7,489524,250580,740104,Hotstar
+365,Baahubali: The Conclusion,2017,India,Telugu,178,1012,7.7,358048,458799,816847,Theatre
+366,Baahubali: The Conclusion,2017,USA,Hindi,182,1706,8.2,176838,96763,273601,Netflix
+367,Baahubali: The Epic,2018,UAE,Hindi,293,921,8.3,48815,255228,304043,Netflix
+368,Baahubali: The Epic,2018,UAE,Tamil,292,1887,7.6,314711,515155,829866,Theatre
+369,Baahubali: The Conclusion,2017,India,Hindi,283,1580,8.0,356534,67558,424092,Amazon Prime
+370,Baahubali: The Epic,2018,Singapore,Telugu,215,1799,8.1,495071,468491,963562,Hotstar
+371,Baahubali: The Beginning,2015,USA,Tamil,165,2172,9.3,570908,425701,996609,Amazon Prime
+372,Baahubali: The Conclusion,2017,Australia,Malayalam,190,992,9.3,75364,98889,174253,Theatre
+373,Baahubali: The Conclusion,2017,India,Telugu,249,505,9.4,529182,87709,616891,Amazon Prime
+374,Baahubali: The Epic,2018,UAE,Telugu,155,1270,8.3,49808,368822,418630,Amazon Prime
+375,Baahubali: The Epic,2018,Australia,Tamil,230,1600,8.4,415018,355327,770345,Netflix
+376,Baahubali: The Beginning,2015,Australia,Telugu,252,642,9.2,433511,52120,485631,Hotstar
+377,Baahubali: The Epic,2018,UAE,Malayalam,242,1083,9.0,385260,467229,852489,Theatre
+378,Baahubali: The Beginning,2015,China,Tamil,184,1823,8.8,126359,142648,269007,Netflix
+379,Baahubali: The Epic,2018,UAE,Telugu,155,1182,8.5,60417,135575,195992,Hotstar
+380,Baahubali: The Conclusion,2017,India,Hindi,186,974,8.0,484051,84079,568130,Netflix
+381,Baahubali: The Epic,2018,China,Hindi,236,1081,8.6,530713,149093,679806,Theatre
+382,Baahubali: The Beginning,2015,UK,Tamil,294,968,8.1,450122,104826,554948,Amazon Prime
+383,Baahubali: The Epic,2018,India,Telugu,208,1589,7.8,412362,105906,518268,Amazon Prime
+384,Baahubali: The Conclusion,2017,Singapore,Tamil,228,1597,7.6,328498,288153,616651,Amazon Prime
+385,Baahubali: The Conclusion,2017,UAE,Hindi,188,1401,7.8,146004,88233,234237,Theatre
+386,Baahubali: The Conclusion,2017,UAE,Telugu,231,555,8.1,88705,85386,174091,Netflix
+387,Baahubali: The Conclusion,2017,India,Hindi,272,1339,8.7,123323,365871,489194,Netflix
+388,Baahubali: The Epic,2018,Singapore,Tamil,283,942,8.1,106724,236763,343487,Amazon Prime
+389,Baahubali: The Beginning,2015,UK,Tamil,166,1224,8.8,469362,435599,904961,Amazon Prime
+390,Baahubali: The Conclusion,2017,Japan,Malayalam,272,1976,8.3,407797,185560,593357,Amazon Prime
+391,Baahubali: The Conclusion,2017,UAE,Malayalam,216,2077,7.8,383191,97847,481038,Amazon Prime
+392,Baahubali: The Beginning,2015,USA,Hindi,297,1210,7.8,64873,167197,232070,Netflix
+393,Baahubali: The Beginning,2015,India,Hindi,240,1289,7.6,76651,441316,517967,Hotstar
+394,Baahubali: The Conclusion,2017,Australia,Malayalam,231,508,8.0,439431,166223,605654,Hotstar
+395,Baahubali: The Beginning,2015,UK,Tamil,257,1285,8.1,374048,515701,889749,Theatre
+396,Baahubali: The Conclusion,2017,Japan,Hindi,169,1770,8.3,56788,463025,519813,Theatre
+397,Baahubali: The Epic,2018,Singapore,Tamil,231,2168,8.2,433287,444328,877615,Amazon Prime
+398,Baahubali: The Epic,2018,Japan,Telugu,247,2006,8.2,452415,80001,532416,Hotstar
+399,Baahubali: The Epic,2018,Australia,Hindi,202,1724,7.9,448110,397561,845671,Amazon Prime
+400,Baahubali: The Beginning,2015,UAE,Telugu,196,2115,8.2,331878,298167,630045,Hotstar
+401,Baahubali: The Conclusion,2017,UK,Telugu,168,764,8.7,554185,283155,837340,Amazon Prime
+402,Baahubali: The Epic,2018,China,Telugu,283,1233,7.7,573033,476297,1049330,Hotstar
+403,Baahubali: The Conclusion,2017,Singapore,Tamil,170,2010,8.0,346147,147043,493190,Theatre
+404,Baahubali: The Epic,2018,Japan,Telugu,201,1620,7.8,324872,267073,591945,Netflix
+405,Baahubali: The Conclusion,2017,UK,Hindi,216,1738,7.9,150142,387381,537523,Amazon Prime
+406,Baahubali: The Epic,2018,India,Telugu,261,2029,8.5,51740,306858,358598,Netflix
+407,Baahubali: The Conclusion,2017,India,Malayalam,287,1907,8.3,82775,37319,120094,Hotstar
+408,Baahubali: The Epic,2018,Australia,Telugu,153,662,8.6,512678,76386,589064,Amazon Prime
+409,Baahubali: The Epic,2018,India,Telugu,158,1450,7.8,82090,446529,528619,Theatre
+410,Baahubali: The Beginning,2015,Singapore,Hindi,287,1163,8.9,561837,376123,937960,Theatre
+411,Baahubali: The Beginning,2015,Singapore,Hindi,257,672,7.8,335462,442116,777578,Hotstar
+412,Baahubali: The Epic,2018,USA,Telugu,150,1849,8.8,240809,237525,478334,Netflix
+413,Baahubali: The Conclusion,2017,USA,Tamil,205,798,8.9,276964,426286,703250,Netflix
+414,Baahubali: The Beginning,2015,UAE,Malayalam,174,1003,7.6,125429,312216,437645,Theatre
+415,Baahubali: The Conclusion,2017,Singapore,Malayalam,155,957,9.2,588259,237783,826042,Amazon Prime
+416,Baahubali: The Beginning,2015,India,Telugu,222,2030,8.2,357899,225638,583537,Hotstar
+417,Baahubali: The Beginning,2015,Australia,Telugu,178,1119,9.0,478252,165933,644185,Amazon Prime
+418,Baahubali: The Conclusion,2017,Australia,Hindi,192,1486,9.2,247568,529711,777279,Amazon Prime
+419,Baahubali: The Epic,2018,India,Tamil,202,1503,8.7,114477,323042,437519,Netflix
+420,Baahubali: The Conclusion,2017,China,Tamil,167,1545,8.3,510929,50743,561672,Amazon Prime
+421,Baahubali: The Conclusion,2017,Australia,Tamil,154,1231,9.2,588163,357888,946051,Theatre
+422,Baahubali: The Beginning,2015,China,Hindi,156,2127,8.6,435520,511664,947184,Theatre
+423,Baahubali: The Epic,2018,India,Telugu,183,1150,9.3,513005,291223,804228,Netflix
+424,Baahubali: The Beginning,2015,India,Malayalam,210,933,8.0,554586,321460,876046,Theatre
+425,Baahubali: The Conclusion,2017,Australia,Hindi,158,776,8.2,504954,527058,1032012,Netflix
+426,Baahubali: The Conclusion,2017,India,Tamil,250,1270,8.6,175894,110877,286771,Amazon Prime
+427,Baahubali: The Epic,2018,UAE,Telugu,290,2174,8.4,579436,452886,1032322,Amazon Prime
+428,Baahubali: The Beginning,2015,USA,Tamil,206,832,8.7,121177,506715,627892,Amazon Prime
+429,Baahubali: The Conclusion,2017,UK,Hindi,202,1997,8.1,357514,270069,627583,Amazon Prime
+430,Baahubali: The Epic,2018,India,Tamil,276,2030,8.5,487891,95335,583226,Theatre
+431,Baahubali: The Epic,2018,Australia,Malayalam,280,536,7.8,126785,402878,529663,Theatre
+432,Baahubali: The Beginning,2015,Japan,Malayalam,207,1802,8.3,227872,255297,483169,Amazon Prime
+433,Baahubali: The Conclusion,2017,Australia,Malayalam,232,946,8.7,453182,424721,877903,Theatre
+434,Baahubali: The Beginning,2015,USA,Telugu,256,1708,8.5,306173,80697,386870,Hotstar
+435,Baahubali: The Epic,2018,China,Hindi,252,1585,7.8,269634,225839,495473,Hotstar
+436,Baahubali: The Beginning,2015,China,Malayalam,246,1091,9.3,84268,342779,427047,Amazon Prime
+437,Baahubali: The Conclusion,2017,Japan,Telugu,240,814,7.7,340662,425366,766028,Hotstar
+438,Baahubali: The Epic,2018,Australia,Hindi,266,1551,8.6,185387,472224,657611,Netflix
+439,Baahubali: The Epic,2018,India,Telugu,279,614,8.5,400378,263541,663919,Theatre
+440,Baahubali: The Conclusion,2017,Japan,Hindi,202,846,8.6,125214,327241,452455,Theatre
+441,Baahubali: The Conclusion,2017,UAE,Hindi,272,1444,8.5,258497,452027,710524,Amazon Prime
+442,Baahubali: The Beginning,2015,India,Hindi,269,1111,8.5,433458,228476,661934,Netflix
+443,Baahubali: The Conclusion,2017,UAE,Tamil,183,1696,8.8,227062,396820,623882,Amazon Prime
+444,Baahubali: The Beginning,2015,China,Hindi,295,1749,9.2,559422,432114,991536,Hotstar
+445,Baahubali: The Epic,2018,Japan,Tamil,241,1759,9.1,197776,406132,603908,Amazon Prime
+446,Baahubali: The Epic,2018,UAE,Tamil,256,1627,8.8,562138,525234,1087372,Hotstar
+447,Baahubali: The Beginning,2015,China,Tamil,265,2007,9.4,372073,66136,438209,Theatre
+448,Baahubali: The Beginning,2015,UK,Tamil,204,1943,9.4,52541,403334,455875,Netflix
+449,Baahubali: The Epic,2018,UAE,Tamil,200,1061,7.7,162308,92257,254565,Netflix
+450,Baahubali: The Epic,2018,India,Tamil,239,682,8.7,167330,349242,516572,Hotstar
+451,Baahubali: The Conclusion,2017,Australia,Telugu,188,890,9.1,174855,82692,257547,Amazon Prime
+452,Baahubali: The Epic,2018,India,Hindi,212,973,8.0,548728,79982,628710,Theatre
+453,Baahubali: The Epic,2018,China,Malayalam,162,1162,9.2,508185,150725,658910,Hotstar
+454,Baahubali: The Beginning,2015,Japan,Malayalam,225,676,8.6,81452,357535,438987,Theatre
+455,Baahubali: The Beginning,2015,UAE,Malayalam,265,731,9.2,389065,409227,798292,Theatre
+456,Baahubali: The Beginning,2015,India,Hindi,249,2153,8.7,277694,506578,784272,Amazon Prime
+457,Baahubali: The Beginning,2015,Australia,Malayalam,200,1906,8.1,144270,114140,258410,Amazon Prime
+458,Baahubali: The Epic,2018,India,Malayalam,298,1692,8.7,563861,118826,682687,Hotstar
+459,Baahubali: The Epic,2018,Singapore,Hindi,201,1494,7.9,487043,401270,888313,Hotstar
+460,Baahubali: The Beginning,2015,UAE,Tamil,199,1477,8.5,279050,230199,509249,Theatre
+461,Baahubali: The Beginning,2015,Singapore,Hindi,234,1517,9.2,470240,99019,569259,Amazon Prime
+462,Baahubali: The Epic,2018,Australia,Hindi,279,855,9.2,215952,373313,589265,Hotstar
+463,Baahubali: The Conclusion,2017,Japan,Malayalam,176,589,8.5,463756,493726,957482,Hotstar
+464,Baahubali: The Beginning,2015,China,Hindi,167,1193,7.7,481811,519569,1001380,Netflix
+465,Baahubali: The Conclusion,2017,UAE,Hindi,227,752,8.1,265279,125875,391154,Netflix
+466,Baahubali: The Conclusion,2017,China,Malayalam,171,582,8.7,238508,523362,761870,Hotstar
+467,Baahubali: The Conclusion,2017,Japan,Tamil,215,1613,8.8,555399,489784,1045183,Netflix
+468,Baahubali: The Epic,2018,Japan,Hindi,203,670,8.5,573469,353932,927401,Amazon Prime
+469,Baahubali: The Epic,2018,UK,Tamil,284,1182,8.4,248576,53528,302104,Hotstar
+470,Baahubali: The Conclusion,2017,USA,Malayalam,193,1916,9.3,145843,338666,484509,Theatre
+471,Baahubali: The Epic,2018,USA,Malayalam,272,1058,8.5,505065,76345,581410,Netflix
+472,Baahubali: The Epic,2018,USA,Telugu,157,2134,8.2,463803,146894,610697,Hotstar
+473,Baahubali: The Beginning,2015,Singapore,Telugu,193,1856,9.3,87840,64629,152469,Theatre
+474,Baahubali: The Epic,2018,Singapore,Malayalam,283,1747,8.8,43770,133811,177581,Amazon Prime
+475,Baahubali: The Beginning,2015,USA,Tamil,285,656,8.6,336136,376219,712355,Netflix
+476,Baahubali: The Conclusion,2017,India,Tamil,217,1513,8.9,513360,507208,1020568,Netflix
+477,Baahubali: The Epic,2018,USA,Malayalam,171,2187,9.2,454143,450057,904200,Netflix
+478,Baahubali: The Conclusion,2017,Australia,Hindi,164,1130,8.5,48676,346513,395189,Hotstar
+479,Baahubali: The Beginning,2015,Australia,Telugu,277,1256,8.0,178223,465032,643255,Amazon Prime
+480,Baahubali: The Conclusion,2017,Japan,Tamil,163,2041,9.3,83764,419655,503419,Theatre
+481,Baahubali: The Conclusion,2017,UK,Malayalam,249,1588,8.8,468525,78946,547471,Theatre
+482,Baahubali: The Beginning,2015,India,Telugu,276,1225,8.8,340614,395186,735800,Netflix
+483,Baahubali: The Beginning,2015,UAE,Tamil,263,853,8.0,461864,298596,760460,Amazon Prime
+484,Baahubali: The Beginning,2015,USA,Malayalam,261,589,7.9,49729,88340,138069,Hotstar
+485,Baahubali: The Epic,2018,UAE,Hindi,199,729,9.3,526425,196301,722726,Theatre
+486,Baahubali: The Conclusion,2017,UK,Hindi,215,1824,8.8,279600,539870,819470,Theatre
+487,Baahubali: The Beginning,2015,USA,Tamil,221,1707,7.7,195752,138869,334621,Theatre
+488,Baahubali: The Conclusion,2017,Australia,Telugu,187,1417,8.8,430213,378872,809085,Netflix
+489,Baahubali: The Conclusion,2017,Japan,Telugu,174,1710,8.0,388036,116237,504273,Amazon Prime
+490,Baahubali: The Epic,2018,Japan,Hindi,238,923,9.3,266195,510241,776436,Hotstar
+491,Baahubali: The Conclusion,2017,Australia,Telugu,232,1541,8.6,282127,443937,726064,Theatre
+492,Baahubali: The Conclusion,2017,UK,Hindi,157,672,8.5,587240,487128,1074368,Theatre
+493,Baahubali: The Beginning,2015,Japan,Tamil,154,1656,7.9,63267,294836,358103,Hotstar
+494,Baahubali: The Conclusion,2017,China,Hindi,185,2018,7.8,145917,457727,603644,Theatre
+495,Baahubali: The Conclusion,2017,UK,Tamil,274,1959,8.1,369168,388345,757513,Amazon Prime
+496,Baahubali: The Conclusion,2017,India,Telugu,236,1713,8.8,476042,424518,900560,Amazon Prime
+497,Baahubali: The Epic,2018,USA,Tamil,237,646,8.5,373561,39474,413035,Hotstar
+498,Baahubali: The Beginning,2015,India,Hindi,157,1252,7.7,244092,216780,460872,Theatre
+499,Baahubali: The Epic,2018,Japan,Telugu,263,1917,8.7,523564,384617,908181,Amazon Prime
+500,Baahubali: The Beginning,2015,USA,Malayalam,158,2174,8.9,46258,498018,544276,Amazon Prime
+501,Baahubali: The Epic,2018,USA,Malayalam,224,1202,9.0,440760,304524,745284,Hotstar
+502,Baahubali: The Conclusion,2017,Australia,Tamil,167,936,8.4,566022,526481,1092503,Theatre
+503,Baahubali: The Conclusion,2017,Japan,Telugu,177,1973,9.0,381206,527657,908863,Amazon Prime
+504,Baahubali: The Epic,2018,Singapore,Malayalam,217,613,8.9,150879,226769,377648,Amazon Prime
+505,Baahubali: The Beginning,2015,UAE,Malayalam,156,1588,8.5,398917,225810,624727,Theatre
+506,Baahubali: The Beginning,2015,China,Malayalam,203,976,9.0,107393,200821,308214,Netflix
+507,Baahubali: The Conclusion,2017,UAE,Tamil,183,2097,8.0,252916,266404,519320,Netflix
+508,Baahubali: The Epic,2018,Singapore,Hindi,291,604,8.1,105754,322329,428083,Netflix
+509,Baahubali: The Beginning,2015,USA,Tamil,254,1664,9.1,173354,98035,271389,Netflix
+510,Baahubali: The Beginning,2015,Singapore,Hindi,250,559,9.2,121894,403057,524951,Theatre
+511,Baahubali: The Beginning,2015,India,Malayalam,221,1707,8.5,165541,352874,518415,Hotstar
+512,Baahubali: The Beginning,2015,USA,Malayalam,162,2140,8.8,363750,172140,535890,Theatre
+513,Baahubali: The Conclusion,2017,Japan,Malayalam,218,1884,8.1,574075,304672,878747,Hotstar
+514,Baahubali: The Beginning,2015,UAE,Telugu,265,1531,8.5,555018,433936,988954,Theatre
+515,Baahubali: The Beginning,2015,UK,Hindi,180,1514,8.0,203213,501050,704263,Amazon Prime
+516,Baahubali: The Beginning,2015,USA,Tamil,236,1080,7.7,282965,399328,682293,Hotstar
+517,Baahubali: The Epic,2018,UK,Hindi,233,1493,8.0,480687,332923,813610,Netflix
+518,Baahubali: The Conclusion,2017,India,Telugu,183,2022,9.2,309130,283281,592411,Amazon Prime
+519,Baahubali: The Epic,2018,UK,Hindi,194,1841,7.8,88773,65388,154161,Amazon Prime
+520,Baahubali: The Conclusion,2017,China,Telugu,225,1060,9.1,197567,526799,724366,Amazon Prime
+521,Baahubali: The Conclusion,2017,Japan,Hindi,186,1490,8.2,115310,221371,336681,Netflix
+522,Baahubali: The Beginning,2015,Australia,Telugu,198,595,8.5,197768,366176,563944,Amazon Prime
+523,Baahubali: The Epic,2018,Japan,Tamil,226,1774,8.6,552445,243516,795961,Theatre
+524,Baahubali: The Epic,2018,Singapore,Tamil,243,1677,8.6,412579,306785,719364,Theatre
+525,Baahubali: The Epic,2018,UK,Hindi,165,976,9.2,246875,286190,533065,Netflix
+526,Baahubali: The Beginning,2015,USA,Telugu,230,1432,8.5,472548,194771,667319,Netflix
+527,Baahubali: The Conclusion,2017,Japan,Hindi,300,2022,8.3,376040,324541,700581,Netflix
+528,Baahubali: The Epic,2018,Australia,Malayalam,156,1801,7.7,123382,425597,548979,Hotstar
+529,Baahubali: The Beginning,2015,India,Telugu,217,2044,7.6,557437,408520,965957,Theatre
+530,Baahubali: The Epic,2018,China,Tamil,283,1491,8.0,355123,442627,797750,Hotstar
+531,Baahubali: The Conclusion,2017,Japan,Tamil,151,1713,8.9,449355,270545,719900,Hotstar
+532,Baahubali: The Conclusion,2017,China,Malayalam,226,2051,8.1,173347,413175,586522,Theatre
+533,Baahubali: The Beginning,2015,Australia,Tamil,173,1289,8.7,501268,414290,915558,Amazon Prime
+534,Baahubali: The Conclusion,2017,Australia,Malayalam,214,1402,8.7,561617,452115,1013732,Theatre
+535,Baahubali: The Beginning,2015,UK,Tamil,253,2119,8.4,65754,83593,149347,Netflix
+536,Baahubali: The Epic,2018,Japan,Tamil,221,1127,8.9,240559,423619,664178,Hotstar
+537,Baahubali: The Beginning,2015,Japan,Hindi,290,632,7.9,90910,415219,506129,Theatre
+538,Baahubali: The Conclusion,2017,India,Malayalam,179,1912,8.5,450461,73008,523469,Amazon Prime
+539,Baahubali: The Conclusion,2017,UAE,Malayalam,289,1479,8.2,51270,508058,559328,Amazon Prime
+540,Baahubali: The Beginning,2015,Singapore,Malayalam,236,1108,9.1,454900,172217,627117,Netflix
+541,Baahubali: The Conclusion,2017,Australia,Malayalam,262,799,9.0,44502,171354,215856,Netflix
+542,Baahubali: The Conclusion,2017,USA,Malayalam,297,830,9.3,435344,95289,530633,Amazon Prime
+543,Baahubali: The Conclusion,2017,UK,Tamil,209,1161,7.9,433072,343608,776680,Netflix
+544,Baahubali: The Beginning,2015,China,Hindi,161,810,9.3,54774,252172,306946,Theatre
+545,Baahubali: The Conclusion,2017,UAE,Tamil,185,695,8.4,518947,455807,974754,Theatre
+546,Baahubali: The Conclusion,2017,Japan,Tamil,288,1756,8.1,489801,91899,581700,Amazon Prime
+547,Baahubali: The Conclusion,2017,Australia,Hindi,196,1997,8.2,582260,116401,698661,Hotstar
+548,Baahubali: The Epic,2018,UK,Malayalam,250,632,8.3,294482,113703,408185,Netflix
+549,Baahubali: The Conclusion,2017,Japan,Telugu,162,2162,7.7,224765,357235,582000,Hotstar
+550,Baahubali: The Beginning,2015,UK,Malayalam,241,1922,8.9,141582,163037,304619,Theatre
